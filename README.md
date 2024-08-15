@@ -1,6 +1,6 @@
 # bloxflip-mines-predictor
 
-**FEATURES**
+**FEATURES**\n
 Seed based Bloxflip Mines Predictor
 
 **INSTALLATION**
@@ -16,8 +16,8 @@ Seed based Bloxflip Mines Predictor
 4. Replace bot token
 5. Launch the bot
 
-**USAGE**
-.mines <tiles_to_predict> <round_id>
+**USAGE**\n
+.mines <tiles_to_predict> <round_id>\n
 example: .mines 3 5d6f898a-b5a7-444d-961d-9dc7a227caef
 
 ![image](https://github.com/user-attachments/assets/ed1ce373-535d-423d-b8b4-e9367ea724b1)

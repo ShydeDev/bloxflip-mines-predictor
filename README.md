@@ -1,5 +1,4 @@
 # bloxflip-mines-predictor
-![image](https://github.com/user-attachments/assets/ed1ce373-535d-423d-b8b4-e9367ea724b1)
 
 **FEATURES**
 Seed based Bloxflip Mines Predictor
@@ -20,3 +19,5 @@ Seed based Bloxflip Mines Predictor
 **USAGE**
 .mines <tiles_to_predict> <round_id>
 example: .mines 3 5d6f898a-b5a7-444d-961d-9dc7a227caef
+
+![image](https://github.com/user-attachments/assets/ed1ce373-535d-423d-b8b4-e9367ea724b1)

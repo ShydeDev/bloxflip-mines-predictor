@@ -23,4 +23,4 @@ Seed based Bloxflip Mines Predictor
 `.mines <tiles_to_predict> <round_id>`  
 Example: `.mines 3 5d6f898a-b5a7-444d-961d-9dc7a227caef`
 
-![image](https://github.com/user-attachments/assets/827efc20-3e26-44f3-8b7c-296adea858d8)
+![image](https://github.com/user-attachments/assets/26f1223c-a50a-4331-88e4-3d86b9a079ed)
